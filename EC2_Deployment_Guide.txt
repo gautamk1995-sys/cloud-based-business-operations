@@ -1,0 +1,17 @@
+
+AWS EC2 Deployment Guide
+
+1. Launch Ubuntu EC2 Instance
+2. Open Ports: 22, 80, 443, 3000, 5000
+3. Install Node.js:
+   sudo apt update
+   sudo apt install nodejs npm -y
+
+4. Clone Repository:
+   git clone <repo_url>
+
+5. Install Dependencies:
+   npm install
+
+6. Start Backend:
+   npm start

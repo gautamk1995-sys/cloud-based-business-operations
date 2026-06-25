@@ -1,2 +1,3 @@
-# cloud-based-business-operations
-Implementation of Cloud-Based Infrastructure in Business Operations using AWS
+# Cloud-Based Business Operations Management System
+
+MCA Project Starter Package

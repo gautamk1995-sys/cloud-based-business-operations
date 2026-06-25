@@ -1,0 +1,9 @@
+
+Inbound Rules:
+SSH 22
+HTTP 80
+HTTPS 443
+Custom TCP 3000
+Custom TCP 5000
+
+Restrict database access to application servers only.

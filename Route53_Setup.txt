@@ -1,0 +1,5 @@
+
+1. Register Domain
+2. Create Hosted Zone
+3. Add A Record pointing to EC2 Elastic IP
+4. Verify DNS propagation
